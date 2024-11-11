@@ -1,0 +1,40 @@
+html{
+    scroll-behavior: smooth;
+}
+.mnav {
+    border: 1px solid red;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    position: sticky;
+    top: 0;
+    background-color: green;
+    
+}
+.home {
+    
+    padding: 15px;
+    font-size: 20px;
+    
+    
+}
+.home a {
+    text-decoration: none;
+}
+h1 {
+    margin-right: 15%;
+    margin-left: 5%;
+}
+.mhome {
+    height: 500px;
+    background-color: yellow;
+}
+.about {
+    height: 500px;
+    background-color: aqua;
+}
+.container {
+    height: 500px;
+    color: rebeccapurple    ;
+}
+
